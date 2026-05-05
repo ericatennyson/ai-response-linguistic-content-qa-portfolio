@@ -27,18 +27,37 @@ All samples are original, fictional, or anonymized for portfolio purposes. They 
 
 Sample evaluations of AI-generated responses based on user intent, helpfulness, personalization quality, search/source awareness, and clarity.
 
+- [Sample 01: User Intent Alignment](ai-response-evaluation/sample-01-user-intent-alignment.md)
+- [Sample 02: Personalization Quality](ai-response-evaluation/sample-02-personalization-quality.md)
+- [Sample 03: Search and Source Awareness](ai-response-evaluation/sample-03-search-source-awareness.md)
+- [Rubric: AI Response Quality](evaluation-rubrics/ai-response-quality-rubric.md)
+
 ### 2. Japanese-English Linguistic QA
 
 Examples of reviewing Japanese-English language quality, localization naturalness, tone, business appropriateness, and bilingual content clarity.
 
+- [Sample 01: Japanese Localization QA](japanese-english-linguistic-qa/sample-01-japanese-localization.md)
+- [Sample 02: Japanese Business Email Tone QA](japanese-english-linguistic-qa/sample-02-business-email-tone.md)
+- [Sample 03: Bilingual Content Naturalness QA](japanese-english-linguistic-qa/sample-03-bilingual-content-naturalness.md)
+- [Rubric: Japanese-English Linguistic QA](evaluation-rubrics/japanese-english-linguistic-qa-rubric.md)
+  
 ### 3. Content QA
 
 Examples of reviewing B2B content, landing page messaging, CTA clarity, user expectation alignment, and claim quality.
+- [Sample 01: B2B Content Clarity Review](content-qa/sample-01-b2b-content-clarity.md)
+- [Sample 02: Landing Page Message Match Review](content-qa/sample-02-landing-page-message-match.md)
+- [Sample 03: CTA and Claim Quality Review](content-qa/sample-03-cta-and-claim-quality.md)
+- [Rubric: Content QA](evaluation-rubrics/content-qa-rubric.md)
+
 
 ### 4. Evaluation Rubrics
 
 Concise rubrics showing the criteria I use to evaluate AI responses, Japanese-English linguistic quality, and content quality.
 
+- [AI Response Quality Rubric](evaluation-rubrics/ai-response-quality-rubric.md)
+- [Japanese-English Linguistic QA Rubric](evaluation-rubrics/japanese-english-linguistic-qa-rubric.md)
+- [Content QA Rubric](evaluation-rubrics/content-qa-rubric.md)
+  
 ## Relevant Experience
 
 - English-language AI response evaluation and personalization quality review
